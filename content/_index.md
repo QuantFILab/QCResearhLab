@@ -30,7 +30,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: showcase
       columns: '3'
   
   - block: markdown
@@ -66,12 +66,4 @@ sections:
       view: citation
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
