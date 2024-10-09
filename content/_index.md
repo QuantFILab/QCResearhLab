@@ -5,17 +5,14 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title: |
-        QauntCorner 
-        Research Laboratory
-      image:
-        filename: welcome.jpg
+      title: QuantCorner Research Laboratory
+      subtitle: by Thai and Quantitative Analyst and Financial Engineer Association
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        QuantConer
+    design:
+      columns: '1'
   
   - block: collection
     content:
