@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        QauntCorner 
+        Research Laboratory
       image:
         filename: welcome.jpg
       text: |
