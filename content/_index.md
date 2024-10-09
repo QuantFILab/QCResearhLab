@@ -10,7 +10,7 @@ sections:
       title: QuantCorner Research Laboratory
       subtitle: by Thai and Quantitative Analyst and Financial Engineer Association
       text: |
-        QuantConer
+        Welcome to the **QuantCorner Research Lab**! We are dedicated to advancing research in **Quantitative Finance** and **Quantitative Risk Management**. Our team focuses on cutting-edge methodologies, including statistical modeling, machine learning, and data-driven approaches, to address complex financial and risk-related challenges.
     design:
       columns: '1'
   
