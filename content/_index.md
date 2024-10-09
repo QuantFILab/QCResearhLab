@@ -63,7 +63,7 @@ sections:
           - publication
         publication_type: 'article'
     design:
-      view: citation
+      view: compact
       columns: '1'
 
 ---
