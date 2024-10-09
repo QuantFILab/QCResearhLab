@@ -30,7 +30,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: showcase
+      view: compact
       columns: '3'
   
   - block: collection
